@@ -1,0 +1,303 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files (x86)\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'i',
+1 verbose cli   'react-iframe' ]
+2 info using npm@2.14.7
+3 info using node@v4.2.1
+4 verbose install initial load of D:\Facebook\DFCC_CC_New_Live\dfcc\package.json
+5 warn package.json frontend@0.0.1 No repository field.
+6 warn package.json frontend@0.0.1 No README data
+7 warn package.json frontend@0.0.1 No license field.
+8 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\babelify\package.json
+9 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\bootstrap\package.json
+10 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\browserify\package.json
+11 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\browserify-shim\package.json
+12 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\c3\package.json
+13 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\classnames\package.json
+14 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\convert-source-map\package.json
+15 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\crypto-js\package.json
+16 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\es6ify\package.json
+17 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\event-stream\package.json
+18 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\font-awesome\package.json
+19 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\griddle-react\package.json
+20 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp\package.json
+21 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-base64\package.json
+22 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-cdnify\package.json
+23 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-concat\package.json
+24 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-es6-transpiler\package.json
+25 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-inject\package.json
+26 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-jade\package.json
+27 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-less\package.json
+28 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-livereload\package.json
+29 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-minify-css\package.json
+30 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-plumber\package.json
+31 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-rename\package.json
+32 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-replace\package.json
+33 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-sourcemaps\package.json
+34 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-streamify\package.json
+35 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-tap\package.json
+36 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-uglify\package.json
+37 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-util\package.json
+38 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\gulp-wrap\package.json
+39 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\jquery\package.json
+40 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\lodash\package.json
+41 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\lodash._htmlescapes\package.json
+42 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\lodash._objecttypes\package.json
+43 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\micro-events\package.json
+44 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\moment\package.json
+45 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\numeral\package.json
+46 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\page\package.json
+47 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\path-to-regexp\package.json
+48 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\paths-js\package.json
+49 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react\package.json
+50 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-dnd\package.json
+51 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-dom\package.json
+52 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe\package.json
+53 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-mixin\package.json
+54 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-responsive\package.json
+55 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-router\package.json
+56 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-widgets\package.json
+57 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\reactify\package.json
+58 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\run-sequence\package.json
+59 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\sprintf-js\package.json
+60 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\underscore\package.json
+61 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\vinyl-buffer\package.json
+62 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\vinyl-source-stream\package.json
+63 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\vinyl-transform\package.json
+64 verbose installManyTop reading scoped package data from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\watchify\package.json
+65 info package.json event-stream@3.3.1 No license field.
+66 info package.json gulp-rename@1.2.2 No license field.
+67 info package.json gulp-streamify@0.0.5 No license field.
+68 info package.json gulp-wrap@0.11.0 No license field.
+69 info package.json jquery@2.1.4 No license field.
+70 info package.json numeral@1.5.3 No license field.
+71 info package.json page@1.6.3 No license field.
+72 info package.json gulp-inject@1.5.0 No license field.
+73 info package.json react-responsive@1.1.1 No license field.
+74 verbose readDependencies loading dependencies from D:\Facebook\DFCC_CC_New_Live\dfcc\package.json
+75 verbose install react-iframe is installed as 1.2.0
+76 silly cache add args [ 'react-iframe', null ]
+77 verbose cache add spec react-iframe
+78 silly cache add parsed spec Result {
+78 silly cache add   raw: 'react-iframe',
+78 silly cache add   scope: null,
+78 silly cache add   name: 'react-iframe',
+78 silly cache add   rawSpec: '',
+78 silly cache add   spec: '*',
+78 silly cache add   type: 'range' }
+79 silly addNamed react-iframe@*
+80 verbose addNamed "*" is a valid semver range for react-iframe
+81 silly addNameRange { name: 'react-iframe', range: '*', hasData: false }
+82 silly mapToRegistry name react-iframe
+83 silly mapToRegistry using default registry
+84 silly mapToRegistry registry https://registry.npmjs.org/
+85 silly mapToRegistry uri https://registry.npmjs.org/react-iframe
+86 verbose addNameRange registry:https://registry.npmjs.org/react-iframe not in flight; fetching
+87 verbose request uri https://registry.npmjs.org/react-iframe
+88 verbose request no auth needed
+89 info attempt registry request try #1 at 12:13:06 PM
+90 verbose request id 7e7e6d36a9f7972b
+91 verbose etag W/"0d3e2ffb7bc228f90cf81f109b5216f9"
+92 verbose lastModified Thu, 21 Jun 2018 07:45:42 GMT
+93 http request GET https://registry.npmjs.org/react-iframe
+94 http 304 https://registry.npmjs.org/react-iframe
+95 verbose headers { date: 'Mon, 06 Aug 2018 06:45:30 GMT',
+95 verbose headers   connection: 'keep-alive',
+95 verbose headers   'set-cookie': [ '__cfduid=d79a8d6bb59f23e57744093180c4d1fa11533537930; expires=Tue, 06-Aug-19 06:45:30 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+95 verbose headers   'cache-control': 'max-age=300',
+95 verbose headers   'cf-cache-status': 'HIT',
+95 verbose headers   'cf-ray': '445f8a8218f22dd9-BOM',
+95 verbose headers   etag: '"0d3e2ffb7bc228f90cf81f109b5216f9"',
+95 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+95 verbose headers   'last-modified': 'Thu, 21 Jun 2018 07:45:42 GMT',
+95 verbose headers   vary: 'accept-encoding, accept',
+95 verbose headers   server: 'cloudflare' }
+96 silly get cb [ 304,
+96 silly get   { date: 'Mon, 06 Aug 2018 06:45:30 GMT',
+96 silly get     connection: 'keep-alive',
+96 silly get     'set-cookie': [ '__cfduid=d79a8d6bb59f23e57744093180c4d1fa11533537930; expires=Tue, 06-Aug-19 06:45:30 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+96 silly get     'cache-control': 'max-age=300',
+96 silly get     'cf-cache-status': 'HIT',
+96 silly get     'cf-ray': '445f8a8218f22dd9-BOM',
+96 silly get     etag: '"0d3e2ffb7bc228f90cf81f109b5216f9"',
+96 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+96 silly get     'last-modified': 'Thu, 21 Jun 2018 07:45:42 GMT',
+96 silly get     vary: 'accept-encoding, accept',
+96 silly get     server: 'cloudflare' } ]
+97 verbose etag https://registry.npmjs.org/react-iframe from cache
+98 verbose get saving react-iframe to C:\Users\mayank.gupta\AppData\Roaming\npm-cache\registry.npmjs.org\react-iframe\.cache.json
+99 silly addNameRange number 2 { name: 'react-iframe', range: '*', hasData: true }
+100 silly addNameRange versions [ 'react-iframe',
+100 silly addNameRange   [ '0.0.1',
+100 silly addNameRange     '0.0.2',
+100 silly addNameRange     '0.0.3',
+100 silly addNameRange     '0.0.4',
+100 silly addNameRange     '0.0.5',
+100 silly addNameRange     '1.0.0',
+100 silly addNameRange     '1.0.1',
+100 silly addNameRange     '1.0.2',
+100 silly addNameRange     '1.0.3',
+100 silly addNameRange     '1.0.4',
+100 silly addNameRange     '1.0.5',
+100 silly addNameRange     '1.0.6',
+100 silly addNameRange     '1.0.7',
+100 silly addNameRange     '1.0.8',
+100 silly addNameRange     '1.0.9',
+100 silly addNameRange     '1.0.10',
+100 silly addNameRange     '1.0.12',
+100 silly addNameRange     '1.0.13',
+100 silly addNameRange     '1.1.0',
+100 silly addNameRange     '1.1.1',
+100 silly addNameRange     '1.2.0' ] ]
+101 silly addNamed react-iframe@1.2.0
+102 verbose addNamed "1.2.0" is a plain semver version for react-iframe
+103 silly cache afterAdd react-iframe@1.2.0
+104 verbose afterAdd C:\Users\mayank.gupta\AppData\Roaming\npm-cache\react-iframe\1.2.0\package\package.json not in flight; writing
+105 verbose afterAdd C:\Users\mayank.gupta\AppData\Roaming\npm-cache\react-iframe\1.2.0\package\package.json written
+106 silly install resolved [ { name: 'react-iframe',
+106 silly install resolved     version: '1.2.0',
+106 silly install resolved     description: 'Easy peasy iframes with react',
+106 silly install resolved     main: 'index.min.js',
+106 silly install resolved     peerDependencies: { react: '>=16.x.x' },
+106 silly install resolved     devDependencies:
+106 silly install resolved      { 'babel-cli': '6.26.0',
+106 silly install resolved        'babel-core': '^6.26.0',
+106 silly install resolved        'babel-eslint': '8.0.2',
+106 silly install resolved        'babel-plugin-react-constant-elements': '^1.0.3',
+106 silly install resolved        'babel-plugin-transform-class-properties': '^6.24.1',
+106 silly install resolved        'babel-plugin-transform-decorators': '^6.24.1',
+106 silly install resolved        'babel-plugin-transform-react-constant-elements': '^6.23.0',
+106 silly install resolved        'babel-plugin-transform-react-inline-elements': '^6.22.0',
+106 silly install resolved        'babel-polyfill': '^6.26.0',
+106 silly install resolved        'babel-preset-env': '^1.6.1',
+106 silly install resolved        'babel-preset-es2015': '6.24.1',
+106 silly install resolved        'babel-preset-react': '^6.24.1',
+106 silly install resolved        chai: '^4.1.2',
+106 silly install resolved        'cross-env': '5.1.1',
+106 silly install resolved        enzyme: '^3.1.1',
+106 silly install resolved        'enzyme-adapter-react-16': '^1.0.4',
+106 silly install resolved        eslint: '4.10.0',
+106 silly install resolved        'eslint-config-acando': '1.3.7',
+106 silly install resolved        'eslint-config-prettier': '^2.7.0',
+106 silly install resolved        'eslint-plugin-react': '7.4.0',
+106 silly install resolved        husky: '^0.14.3',
+106 silly install resolved        'lint-staged': '^4.3.0',
+106 silly install resolved        mocha: '^4.0.1',
+106 silly install resolved        'object-assign': '^4.1.1',
+106 silly install resolved        prettier: '^1.8.0',
+106 silly install resolved        'prop-types': '^15.6.x',
+106 silly install resolved        react: '^16.0.0',
+106 silly install resolved        'react-dom': '^16.0.0',
+106 silly install resolved        'react-test-renderer': '^16.0.0',
+106 silly install resolved        'standard-version': '^4.4.0',
+106 silly install resolved        'uglify-js': '^3.1.8' },
+106 silly install resolved     'lint-staged': { '*.js': [Object] },
+106 silly install resolved     repository:
+106 silly install resolved      { type: 'git',
+106 silly install resolved        url: 'git+ssh://git@github.com/svenanders/react-iframe.git' },
+106 silly install resolved     homepage: 'https://github.com/svenanders/react-iframe',
+106 silly install resolved     keywords: [ 'react', 'react-component', 'iframe' ],
+106 silly install resolved     author:
+106 silly install resolved      { name: 'Sven Anders Robbestad',
+106 silly install resolved        email: 'anders@robbestad.com',
+106 silly install resolved        url: 'https://www.robbestad.com' },
+106 silly install resolved     scripts:
+106 silly install resolved      { test: 'mocha --require babel-register test/',
+106 silly install resolved        lint: 'eslint index.js --config .eslintrc.json',
+106 silly install resolved        prerelease: 'npm run minify',
+106 silly install resolved        release: 'git commit -am"New release"',
+106 silly install resolved        postrelease: 'standard-version',
+106 silly install resolved        'prerelease-minor': 'npm run prerelease',
+106 silly install resolved        'release-minor': 'npm run release',
+106 silly install resolved        'postrelease-minor': 'standard-version --release-as minor',
+106 silly install resolved        'prerelease-major': 'npm run prerelease',
+106 silly install resolved        'release-major': 'npm run release',
+106 silly install resolved        'postrelease-major': 'standard-version --release-as major',
+106 silly install resolved        preminify: 'babel --minified index.js -o index.min.js',
+106 silly install resolved        minify: 'babel --minified index.js -o demo/react-iframe.min.js',
+106 silly install resolved        precommit: 'lint-staged' },
+106 silly install resolved     license: 'ISC',
+106 silly install resolved     contributors:
+106 silly install resolved      [ [Object],
+106 silly install resolved        [Object],
+106 silly install resolved        [Object],
+106 silly install resolved        [Object],
+106 silly install resolved        [Object],
+106 silly install resolved        [Object],
+106 silly install resolved        [Object] ],
+106 silly install resolved     gitHead: '0bee3a5e5caeffd0a53073efcfaff117f8e4643f',
+106 silly install resolved     bugs: { url: 'https://github.com/svenanders/react-iframe/issues' },
+106 silly install resolved     _id: 'react-iframe@1.2.0',
+106 silly install resolved     _npmVersion: '5.6.0',
+106 silly install resolved     _nodeVersion: '8.11.1',
+106 silly install resolved     _npmUser: { name: 'svenanders', email: 'anders@robbestad.com' },
+106 silly install resolved     dist:
+106 silly install resolved      { integrity: 'sha512-xd7zHdVu6Pe3ijQNkT8PvLfGRQEY/CuKvjMhVC+OLSoXL1mkBA300hen5vm56yNdaUt3AspVclXda1IO7ooMhg==',
+106 silly install resolved        shasum: 'c5ce1f21595537f95ff7838288b60d830498b289',
+106 silly install resolved        tarball: 'https://registry.npmjs.org/react-iframe/-/react-iframe-1.2.0.tgz',
+106 silly install resolved        fileCount: 21,
+106 silly install resolved        unpackedSize: 343316,
+106 silly install resolved        'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbK1eiCRA9TVsSAnZWagAAI5QQAKOtpCBMqAOdQlgSO6Ar\nUrWVjDUcoyVX4mT47bC8iUcuYTie0uojQ8C3CefE2tg4UNwGkqpJUbeM9UnS\nHzgimnn98uKhznI/fDjckFlHx98pWMT/oNFZMvNQz0rNlKmKPbcPzBqsSZ6X\nFzB9TbLYDj4EhbBK9sYp1wUOh/BJqsRytdlCEy60nvTmcy5eDOgVEo2YUsMb\n9v6xJZ1+dnj5BvWIQt4tWPr8gjcj6vbJYhYSFcYvPC2lUmxud8CQEFFB1cxH\nwosBhTHQzBS5Ap+WEFViCLLL2zOeGrBTefuGBqUqe1mNfrMyBLknahZqbyIc\nf+JSxu6LzjQlX8J2KI+EfXhrv1rCOD/YU2f+1rCvWRhgdwUIMwpf2/SMrYpV\nCij7+9rkbFmnzxuQtURiX8hIH/+r6VWAUOkwyQQOVBLJizjFsZ+MB4yzjoQm\nETTYj1iCKcPtJR4Vnqaaa/cbQ0X2J6AGfwkNhJ6tZRAhg75SPfMdx4g+q/8W\naw36L4dbGlBPjX7mgTBGPtqKMG2li6UiRtu+hBQXJSTtXP9y4kI7lPiqMJx3\n1p/MSM1ZVEg67+RydFSFpS82+UdciF1mfRWeZKZTMHQ8y5pS3OlhLgDn7cK/\nA9j/NdsWKSqRoE+S69xiYL7wuyihGOTUfSvHPguPfKkub03lKmNdIYPKv0Bj\nYUOg\r\n=n677\r\n-----END PGP SIGNATURE-----\r\n' },
+106 silly install resolved     maintainers: [ [Object] ],
+106 silly install resolved     directories: {},
+106 silly install resolved     _npmOperationalInternal:
+106 silly install resolved      { host: 's3://npm-registry-packages',
+106 silly install resolved        tmp: 'tmp/react-iframe_1.2.0_1529567138172_0.38260473758163394' },
+106 silly install resolved     _shasum: 'c5ce1f21595537f95ff7838288b60d830498b289',
+106 silly install resolved     _resolved: 'https://registry.npmjs.org/react-iframe/-/react-iframe-1.2.0.tgz',
+106 silly install resolved     _from: 'react-iframe@*',
+106 silly install resolved     readme: 'ERROR: No README data found!' } ]
+107 info install react-iframe@1.2.0 into D:\Facebook\DFCC_CC_New_Live\dfcc
+108 info installOne react-iframe@1.2.0
+109 verbose installOne of react-iframe to D:\Facebook\DFCC_CC_New_Live\dfcc not in flight; installing
+110 verbose lock using C:\Users\mayank.gupta\AppData\Roaming\npm-cache\_locks\react-iframe-4b9f39d47b5cb206.lock for D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+111 silly install write writing react-iframe 1.2.0 to D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+112 verbose unbuild node_modules\react-iframe
+113 info preuninstall react-iframe@1.2.0
+114 info uninstall react-iframe@1.2.0
+115 verbose unbuild rmStuff react-iframe@1.2.0 from D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules
+116 info postuninstall react-iframe@1.2.0
+117 silly gentlyRm D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe is being purged from base D:\Facebook\DFCC_CC_New_Live\dfcc
+118 verbose gentlyRm don't care about contents; nuking D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+119 silly vacuum-fs purging D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+120 silly vacuum-fs quitting because other entries in D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules
+121 verbose tar unpack C:\Users\mayank.gupta\AppData\Roaming\npm-cache\react-iframe\1.2.0\package.tgz
+122 verbose tar unpacking to D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+123 silly gentlyRm D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe is being purged
+124 verbose gentlyRm don't care about contents; nuking D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+125 silly vacuum-fs Error: EPERM: operation not permitted, lstat 'D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe'
+125 silly vacuum-fs     at Error (native)
+126 verbose unlock done using C:\Users\mayank.gupta\AppData\Roaming\npm-cache\_locks\react-iframe-4b9f39d47b5cb206.lock for D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+127 verbose stack Error: EPERM: operation not permitted, lstat 'D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe'
+127 verbose stack     at Error (native)
+128 verbose cwd D:\Facebook\DFCC_CC_New_Live\dfcc
+129 error Windows_NT 6.1.7600
+130 error argv "C:\\Program Files (x86)\\nodejs\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "i" "react-iframe"
+131 error node v4.2.1
+132 error npm  v2.14.7
+133 error path D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+134 error code EPERM
+135 error errno -4048
+136 error syscall lstat
+137 error Error: EPERM: operation not permitted, lstat 'D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe'
+137 error     at Error (native)
+137 error  { [Error: EPERM: operation not permitted, lstat 'D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe']
+137 error   errno: -4048,
+137 error   code: 'EPERM',
+137 error   syscall: 'lstat',
+137 error   path: 'D:\\Facebook\\DFCC_CC_New_Live\\dfcc\\node_modules\\react-iframe' }
+138 error Please try running this command again as root/Administrator.
+139 verbose exit [ -4048, true ]
+140 verbose unbuild node_modules\react-iframe
+141 silly gentlyRm D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe is being purged from base D:\Facebook\DFCC_CC_New_Live\dfcc
+142 verbose gentlyRm don't care about contents; nuking D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe
+143 silly vacuum-fs Error: EPERM: operation not permitted, lstat 'D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe'
+143 silly vacuum-fs     at Error (native)
+144 error error rolling back Error: EPERM: operation not permitted, lstat 'D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe'
+144 error error rolling back     at Error (native)
+144 error error rolling back  { [Error: EPERM: operation not permitted, lstat 'D:\Facebook\DFCC_CC_New_Live\dfcc\node_modules\react-iframe']
+144 error error rolling back   errno: -4048,
+144 error error rolling back   code: 'EPERM',
+144 error error rolling back   syscall: 'lstat',
+144 error error rolling back   path: 'D:\\Facebook\\DFCC_CC_New_Live\\dfcc\\node_modules\\react-iframe' }
