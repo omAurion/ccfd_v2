@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dashboard-page.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dashboard-page.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dashboard/dashboard-page.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28451177">
-              <caret line="682" column="91" selection-start-line="682" selection-start-column="91" selection-end-line="682" selection-end-column="91" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="645" column="81" selection-start-line="645" selection-start-column="81" selection-end-line="645" selection-end-column="81" />
               <folding>
                 <element signature="n#!!block;n#hrStyleDyn#0;n#DashboardPage#0" expanded="false" />
                 <element signature="n#!!block;n#normaltextInfoDyn#0;n#DashboardPage#0" expanded="false" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="dfcc.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dfcc.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-18.603773">
               <caret line="97" column="27" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
               <folding>
                 <element signature="n#!!block;n#offers#0;n#!!block;n#overViewPage#0;n#!!block;n#Customer#0;n#!!top" expanded="false" />
@@ -144,7 +144,7 @@
       <file leaf-file-name="app.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-392.30768">
               <caret line="600" column="0" selection-start-line="600" selection-start-column="0" selection-end-line="600" selection-end-column="0" />
               <folding />
             </state>
@@ -155,7 +155,17 @@
         <entry file="file://$PROJECT_DIR$/src/credit/my_reward.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="56" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="56" />
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45791245">
+              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -197,6 +207,9 @@
       <find>hide</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -232,7 +245,6 @@
         <option value="$PROJECT_DIR$/src_old/dashboard/dashboard-page.jsx" />
         <option value="$PROJECT_DIR$/src_old/offers/offers-page.jsx" />
         <option value="$USER_HOME$/Desktop/0001013300001531323_06232016_07132016.json" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/src/my.less" />
         <option value="$PROJECT_DIR$/src_old/app.less" />
         <option value="$PROJECT_DIR$/src/banners.less" />
@@ -252,6 +264,7 @@
         <option value="$PROJECT_DIR$/dfcc.json" />
         <option value="$PROJECT_DIR$/src/credit/home.jsx" />
         <option value="$PROJECT_DIR$/src/dashboard/dashboard-page.jsx" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
     </option>
   </component>
@@ -345,7 +358,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -389,56 +402,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTMLBills" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dfcc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTMLBills" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dfcc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dashboard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTMLBills" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dfcc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="credit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -452,12 +415,14 @@
     <property name="js.buildTools.gulp.gulp_package_dir" value="D:\facebook\DFCC-CC\dfcc\node_modules\gulp" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.gitattributes" />
     <property name="recentsLimit" value="5" />
     <property name="JavaScriptLanguageLevel" value="JSX" />
     <property name="SearchEverywhereHistoryKey" value="customNavStyle &#9;null&#9;null&#10;app.j&#9;FILE&#9;file://D:/Supriya/html5/Projects/DFCC/dfcc/src/app.jsx&#10;table&#9;null&#9;null&#10;parent-row&#9;null&#9;null&#10;parent-row &#9;null&#9;null&#10;dateStyle&#9;null&#9;null&#10;crDrStyle&#9;null&#9;null&#10;colWidthStyle_amount&#9;null&#9;null&#10;colWidthStyle&#9;null&#9;null&#10;nav&#9;null&#9;null&#10;customNavStyle_1&#9;null&#9;null&#10;rewa&#9;null&#9;null&#10;containerPadding&#9;null&#9;null&#10;term&#9;null&#9;null&#10;customNavStyle_1 &#9;null&#9;null&#10;.customNavStyle&#9;null&#9;null&#10;zui&#9;null&#9;null&#10;nav-tab&#9;null&#9;null&#10;componentWillUnmount&#9;null&#9;null&#10;griddle&#9;null&#9;null&#10;font&#9;null&#9;null&#10;gridd&#9;null&#9;null&#10;gray&#9;null&#9;null&#10;containerPaddingm&#9;null&#9;null&#10;hrStylem&#9;null&#9;null&#10;hrStyle&#9;null&#9;null&#10;getIt&#9;null&#9;null&#10;href&#9;FILE&#9;file://D:/Facebook/HDFCBank/HDFC/node_modules/react-dnd/modules/utils/cloneWithRef.js&#10;hrstyle&#9;null&#9;null&#10;homeRcornerBorder&#9;null&#9;null&#10;.normal-text&#9;null&#9;null&#10;.offersBorderStyle&#9;null&#9;null&#10;.credit-print&#9;null&#9;null&#10;radioLblStyle&#9;null&#9;null&#10;cardBtnStyle&#9;null&#9;null&#10;mainHeadingStyle&#9;null&#9;null&#10;normal-text1&#9;null&#9;null&#10;.homeRcornerBorder&#9;null&#9;null&#10;containerContactUs&#9;null&#9;null&#10;grayBodyStyle&#9;null&#9;null&#10;footerAddress&#9;null&#9;null&#10;Infoline&#9;null&#9;null&#10;subLine&#9;null&#9;null&#10;numberColumn&#9;null&#9;null&#10;terms&#9;null&#9;null&#10;containerclassleft&#9;null&#9;null&#10;cssclassname&#9;null&#9;null&#10;credit-print&#9;null&#9;null&#10;cardHomeAd2&#9;null&#9;null&#10;containerleft&#9;null&#9;null" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:\Program Files (x86)\nodejs\node" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -768,10 +733,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29291454" sideWeight="0.50739956" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1688988" sideWeight="0.4926004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1688988" sideWeight="0.4926004" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30979133" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -847,14 +812,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/app.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="600" column="0" selection-start-line="600" selection-start-column="0" selection-end-line="600" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/credit/my_reward.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1045,13 +1002,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/make_demo.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1175,14 +1125,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="600" column="0" selection-start-line="600" selection-start-column="0" selection-end-line="600" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/contact/contact-form.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1240,27 +1182,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/credit/my_reward.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="56" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dfcc.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="97" column="27" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!block;n#offers#0;n#!!block;n#overViewPage#0;n#!!block;n#Customer#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#cardOffers#0;n#!!block;n#overViewPage#0;n#!!block;n#Customer#0;n#!!top" expanded="false" />
-            <element signature="e#2924#35530#0" expanded="false" />
-            <element signature="n#!!block;n#summaryBanner#0;n#!!block;n#myCardPage#0;n#!!block;n#Customer#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/credit/home.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1276,8 +1197,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dashboard/dashboard-page.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28451177">
-          <caret line="682" column="91" selection-start-line="682" selection-start-column="91" selection-end-line="682" selection-end-column="91" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="645" column="81" selection-start-line="645" selection-start-column="81" selection-end-line="645" selection-end-column="81" />
           <folding>
             <element signature="n#!!block;n#hrStyleDyn#0;n#DashboardPage#0" expanded="false" />
             <element signature="n#!!block;n#normaltextInfoDyn#0;n#DashboardPage#0" expanded="false" />
@@ -1303,6 +1224,51 @@
             <element signature="e#27208#27264#0" expanded="false" />
             <element signature="e#27302#27363#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfcc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.603773">
+          <caret line="97" column="27" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!block;n#offers#0;n#!!block;n#overViewPage#0;n#!!block;n#Customer#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#cardOffers#0;n#!!block;n#overViewPage#0;n#!!block;n#Customer#0;n#!!top" expanded="false" />
+            <element signature="e#2924#35530#0" expanded="false" />
+            <element signature="n#!!block;n#summaryBanner#0;n#!!block;n#myCardPage#0;n#!!block;n#Customer#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-392.30768">
+          <caret line="600" column="0" selection-start-line="600" selection-start-column="0" selection-end-line="600" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/credit/my_reward.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45791245">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -44,7 +44,7 @@ var src = {
     components: ["src/**/*.jsx"],
     less: ["src/app.less"],
     css: ["src/**/*.css"],
-    sample: "sample_data.json"
+    sample: "dfcc.json"
 };
 
 var scriptParams = {
